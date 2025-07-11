@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Sahil/mlflow_pca_demo/mlruns/352044160423386031
+creation_time: 1752166821548
+experiment_id: '352044160423386031'
+last_update_time: 1752166821548
+lifecycle_stage: active
+name: pca-two-pipelines

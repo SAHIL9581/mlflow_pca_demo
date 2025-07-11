@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Sahil/mlflow_pca_demo/mlruns/352044160423386031/a9eeccf50061472b920e11677a3c7808/artifacts
+end_time: 1752169073506
+entry_point_name: ''
+experiment_id: '352044160423386031'
+lifecycle_stage: active
+run_id: a9eeccf50061472b920e11677a3c7808
+run_name: train-full-pipeline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752169073442
+status: 4
+tags: []
+user_id: Sahil

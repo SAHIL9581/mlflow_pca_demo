@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Sahil/mlflow_pca_demo/mlruns/352044160423386031/models/m-181edc6ef0f3484ab392109dcf2bb41a/artifacts
+creation_timestamp: 1752169307295
+experiment_id: '352044160423386031'
+last_updated_timestamp: 1752169315412
+model_id: m-181edc6ef0f3484ab392109dcf2bb41a
+model_type: null
+name: model
+source_run_id: 0ff5289ea4ea4f21a7bd424f017210ad
+status: 2
+status_message: null
